@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/jahim4x" target="blank"><img src="https://img.shields.io/twitter/follow/jahim4x?logo=twitter&style=for-the-badge" alt="jahim4x" /></a> </p>
 
-- 🔭 I’m currently working on [Zap! and Strobe](github.com/Loading617/Zap github.com/Loading617/Strobe)
+- 🔭 I’m currently working on: [Zap! and Strobe](github.com/Loading617/Zap github.com/Loading617/Strobe)
 
-- 🌱 I’m currently learning **Python and C++**
+- 🌱 I’m currently learning: **Python and C++**
 
-- 👯 I’m looking to collaborate on [waflash](https://github.com/vidkidz/waflash)
+- 👯 I’m looking to collaborate on: [waflash](https://github.com/vidkidz/waflash)
 
-- 📫 How to reach me **jahimsankoh319@gmail.com**
+- 📫 How to reach me: **jahimsankoh319@gmail.com**
 
-- 📄 Know about my experiences [https://profile.indeed.com/resume](https://profile.indeed.com/resume)
+- 📄 Know about my experiences: [https://profile.indeed.com/resume](https://profile.indeed.com/resume)
 
-- ⚡ Fun fact **I can Sing, Dance & Act Out**
+- ⚡ Fun fact: **I can Sing, Dance & Act Out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
