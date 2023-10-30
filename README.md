@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/jahim4x" target="blank"><img src="https://img.shields.io/twitter/follow/jahim4x?logo=twitter&style=for-the-badge" alt="jahim4x" /></a> </p>
 
-- 🔭 I’m currently working on [Zap!, Strobe, WooHoo, Whoosh & ForDaWeb Emulator](github.com/Loading617/Zap github.com/Loading617/Strobe github.com/WooHoo github.com/Woosh gihub.com/ ForDaWeb Emulator)
+- 🔭 I’m currently working on [Zap!, Strobe, WooHoo, Whoosh & ForDaWeb Emulator]
+- (github.com/Loading617/Zap github.com/Loading617/Strobe github.com/WooHoo github.com/Woosh gihub.com/ ForDaWeb Emulator)
 
 - 🌱 I’m currently learning **Python and C++**
 
