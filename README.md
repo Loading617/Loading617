@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://profile.indeed.com/resume](https://profile.indeed.com/resume)
 
-- ⚡ Fun fact **I can Sing, Dance & Act Out**
+- ⚡ Fun fact **I can Sing, Dance & Act**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
