@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Zap!, WooHoo, Whoosh, ForDaWebEmulator, Strobe, SpikeCloud & Live! IPTV](https://github.com/Loading617/Zap https://github.com/Loading617/WooHoo https://github.com/Loading617/Whoosh https://github.com/Loading617/ForDaWebEmulator https://github.com/Loading617/Strobe https://github.com/Loading617/SpikeCloud https://github.com/Loading617/LiveIPTV)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, C & Rust**
 
 - 👯 I’m looking to collaborate on [waflash](https://github.com/vidkidz/waflash)
 
