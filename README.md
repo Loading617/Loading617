@@ -21,7 +21,7 @@ https://github.com/Loading617/Drive
 https://github.com/Loading617/Mackie
 https://github.com/Loading617/Shine)
 
-- 🌱 I’m currently learning **Java, C++, C, Python, HTML & CSS**
+- 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML & CSS**
 
 - 👯 I’m looking to collaborate on [waflash](https://github.com/vidkidz/waflash)
 
