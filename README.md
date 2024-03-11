@@ -23,8 +23,6 @@ https://github.com/Loading617/Shine)
 
 - 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML & CSS**
 
-- 👯 I’m looking to collaborate on [waflash](https://github.com/vidkidz/waflash)
-
 - 📫 How to reach me **jahimsankoh319@gmail.com**
 
 - 📄 Know about my experiences [https://profile.indeed.com/resume](https://profile.indeed.com/resume)
