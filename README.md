@@ -22,7 +22,7 @@ https://github.com/Loading617/Mackie
 https://github.com/Loading617/Shine
 https://github.com/Loading617/CatchIT)
 
-- 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML & CSS**
+- 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML, CSS & Vue**
 
 - 📫 How to reach me **jahimsankoh319@gmail.com**
 
