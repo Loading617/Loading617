@@ -24,7 +24,7 @@ https://github.com/Loading617/CatchIT
 https://github.com/Loading617/CyPlay
 https://github.com/Loading617/EJIPTVeditor
 https://github.com/Loading617/VideoShow)
-- 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML, CSS**
+- 🌱 I’m currently learning **C++, C, HTML, CSS**
 
 - 📫 How to reach me **jahimsankoh319@gmail.com**
 
