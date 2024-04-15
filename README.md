@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahim4x" target="blank"><img src="https://img.shields.io/twitter/follow/jahim4x?logo=twitter&style=for-the-badge" alt="jahim4x" /></a> </p>
 
-- 🔭 I’m currently working on [Zap!, WooHoo, Whoosh, ForDaWebEmulator, Strobe, SpikeCloud, Live! IPTV, CloudDown, Jupiter, It's Out, Drive, Mackie, Shine & CatchIPTV!, CyPlay, EJ IPTV Editor & ShowVideo](https://github.com/Loading617/Zap 
+- 🔭 I’m currently working on [Zap!, WooHoo, Whoosh, ForDaWebEmulator, Strobe, SpikeCloud, Live! IPTV, CloudDown, Jupiter, It's Out, Drive, Mackie, Shine & CatchIPTV!, CyPlay, EJ IPTV Editor & VideoShow](https://github.com/Loading617/Zap 
 https://github.com/Loading617/WooHoo 
 https://github.com/Loading617/Whoosh 
 https://github.com/Loading617/ForDaWebEmulator 
@@ -23,8 +23,7 @@ https://github.com/Loading617/Shine
 https://github.com/Loading617/CatchIT
 https://github.com/Loading617/CyPlay
 https://github.com/Loading617/EJIPTVeditor
-https://github.com/Loading617/ShowVideo)
-
+https://github.com/Loading617/VideoShow)
 - 🌱 I’m currently learning **Java, C++, C, Kotlin, Python, HTML, CSS**
 
 - 📫 How to reach me **jahimsankoh319@gmail.com**
