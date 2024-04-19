@@ -18,7 +18,7 @@ https://github.com/Loading617/CloudDown
 https://github.com/Loading617/Jupiter
 https://github.com/Loading617/ItsOut
 https://github.com/Loading617/Drive
-https://github.com/Loading617/Mackie
+https://github.com/Loading617/SpectMack
 https://github.com/Loading617/Shine
 https://github.com/Loading617/CatchIT
 https://github.com/Loading617/CyPlay
