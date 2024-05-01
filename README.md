@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahim4x" target="blank"><img src="https://img.shields.io/twitter/follow/jahim4x?logo=twitter&style=for-the-badge" alt="jahim4x" /></a> </p>
 
-- 🔭 I’m currently working on [Zap!, ForDaWebEmulator, Strobe, SpikeCloud, Live! IPTV, CloudSave, Jupiter, It's Out!, Drive, SpectMack, Shine, CatchIPTV!, CyGeo, EJ IPTV Editor, VideoShow, Zang!, FixLibrary, Muziky & MakeSure IPTV](https://github.com/Loading617/Zap 
+- 🔭 I’m currently working on [Zap!, ForDaWebEmulator, Strobe, SpikeCloud, Live! IPTV, CloudSave, Jupiter, It's Out!, Drive, SpectMack, Shine, CatchIPTV!, CyGeo, EJ IPTV Editor, KPlay, Zang!, FixLibrary, Muziky & MakeSure IPTV](https://github.com/Loading617/Zap 
 https://github.com/Loading617/ForDaWebEmulator 
 https://github.com/Loading617/Strobe 
 https://github.com/Loading617/SpikeCloud 
@@ -21,7 +21,7 @@ https://github.com/Loading617/Shine
 https://github.com/Loading617/CatchIT
 https://github.com/Loading617/CyGeo
 https://github.com/Loading617/EJIPTVeditor
-https://github.com/Loading617/VideoShow
+https://github.com/Loading617/KPlay
 https://github.com/Loading617/Zang
 https://github.com/Loading617/FixLibrary
 https://github.com/Loading617/Muziky
