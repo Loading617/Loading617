@@ -26,7 +26,7 @@ https://github.com/Loading617/Zang
 https://github.com/Loading617/FixLibrary
 https://github.com/Loading617/Muziky
 https://github.com/Loading617/MakeSureIPTV)
-- 🌱 I’m currently learning **CSS, PHP, JavaScript, Node.js**
+- 🌱 I’m currently learning **CSS, PHP, Vue.js, JavaScript, Node.js**
 
 - 📫 How to reach me **jahimsankoh319@gmail.com**
 
