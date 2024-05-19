@@ -47,4 +47,4 @@ https://github.com/Loading617/MakeSureIPTV)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loading617&show_icons=true&title_color=000000&locale=en" alt="loading617" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loading617&theme=dark" alt="loading617" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loading617&theme=default" alt="loading617" /></p>
