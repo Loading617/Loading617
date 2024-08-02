@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jahim4x" target="blank"><img src="https://img.shields.io/twitter/follow/jahim4x?logo=twitter&style=for-the-badge" alt="jahim4x" /></a> </p>
 
-- 🔭 I’m currently working on **Guitar, Zap!, Muziky & Live! IPTV **
+- 🔭 I’m currently working on **Guitar, Zap! & Muziky**
 - 🌱 I’m currently learning **JavaScript, TypeScript & Kotlin**
 
 - 📫 How to reach me **jahimsankoh319@gmail.com**
