@@ -27,3 +27,4 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Loading617&theme=highcontrast&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loading617&theme=highcontrast" alt="loading617" /></p>
