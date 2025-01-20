@@ -27,8 +27,8 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loading617&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="loading617" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loading617&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="loading617" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=loading617&show_icons=true&theme=highcontrast&locale=en" alt="loading617" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loading617&show_icons=true&theme=highcontrast&locale=en" alt="loading617" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loading617&theme=highcontrast" alt="loading617" /></p>
