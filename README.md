@@ -29,8 +29,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loading617&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="loading617" /></p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/loading617/loading617/blob/main/images/stat.svg"
+  alt="Jahim WakaTime Activity"
+/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loading617&show_icons=true&theme=highcontrast&locale=en" alt="loading617" /></p>
 
