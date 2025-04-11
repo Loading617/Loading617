@@ -29,11 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=loading617&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="loading617" /></p>
 
-<img
-  src="https://github.com/loading617/loading617/blob/main/images/stat.svg"
-  alt="Jahim WakaTime Activity"
-/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loading617&show_icons=true&theme=highcontrast&locale=en" alt="loading617" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Loading617&limit=5&theme=dark&combine_all_yearly_contributions=true)
