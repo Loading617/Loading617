@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahim Sankoh</h1>
-<h3 align="center">A passionate software developer from Philadelphia, Pennsylvania</h3>
+<h3 align="center">A passionate software developer from Bern, Pennsylvania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loading617&label=Profile%20views&color=0e75b6&style=flat" alt="loading617" /> </p>
 
